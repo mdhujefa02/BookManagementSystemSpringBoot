@@ -4,7 +4,8 @@ A simple Book Management System built with Spring Boot that allows users to perf
 
 This is a lightweight, console-based or API-ready application ideal for learning Spring Boot architecture and DAO implementation.
 
-#🧾 Features
+# 🧾 Features
+
 Add new books
 
 View book list
